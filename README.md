@@ -1,6 +1,6 @@
 ﻿\# Project Title
 
-This project contains an implementation of proportional response dynamics in production economies. For the mathematical definition, see associated paper <https://simina.info/production_main.pdf>.
+This project contains an implementation of proportional response dynamics in production economies. 
 
 \## Description
 
