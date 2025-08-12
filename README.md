@@ -1,6 +1,6 @@
 ﻿\# Project Title
 
-This project contains an implementation of proportional response dynamics in production economies. 
+This project contains an implementation of proportional response dynamics in production economies. It is the source code used to generate the images in the associated paper "Tit-for-tat strategies drive growth and inequality in production economies" (https://royalsocietypublishing.org/doi/full/10.1098/rspa.2024.0533).
 
 \## Description
 
@@ -18,7 +18,6 @@ You will be prompted to type a number from 0, 1, 2, 3. This tells the program wh
 
 In all of these cases, the initial quantity of good i is initialized to x\_i(0) = 1; also the initial budget of each agent i is initialized to B\_i(0) = 1.
 
-This is the source code used to generate the images in the associated paper "Tit-for-tat strategies drive growth and inequality in production economies" (https://royalsocietypublishing.org/doi/full/10.1098/rspa.2024.0533).
 
 
 
